@@ -7,12 +7,12 @@ Using R to perform analysis and Visualization on data. Graphical representations
 
 ### Content Covered:
 
-1. [Importing Libraries](#importing-Libraries)
-2. [Handling missing values](#handling-missing-values)
-3. [Exploratory Data Analysis](#EDA)<br>
+1. [Importing Libraries](#1-importing-Libraries)
+2. [Handling missing values](#2-handling-missing-values)
+3. [Exploratory Data Analysis](#3-EDA)<br>
        3.1. [Descriptive Statistics](#31-descriptive-statistics)<br>
-       3.2. [Univariate Analysis](#univariate-analysis)<br>
-       3.3. [Bivariate Analysis](#bivariate-analysis)
+       3.2. [Univariate Analysis](#32-univariate-analysis)<br>
+       3.3. [Bivariate Analysis](#33-bivariate-analysis)
 
 ## 1. Importing Libraries
 Below packages were installed and imported for this analysis:
