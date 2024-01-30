@@ -7,10 +7,10 @@ Using R to perform analysis and Visualization on data. Graphical representations
 
 ### Content Covered:
 
-1. [Importing Libraries](Importing Libraries)
+1. [Importing Libraries](#importing-Libraries)
 2. Handling missing values
-3. Exploratory Data Analysis
-       3.1. Univariate Analysis
+3. Exploratory Data Analysis<br>
+       3.1. Univariate Analysis<br>
        3.2. Bivariate Analysis
 
-Importing Libraries
+## Importing Libraries
