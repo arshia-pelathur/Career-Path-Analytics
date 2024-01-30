@@ -36,6 +36,8 @@ Missing values in any row were observed and these rows were dropped before proce
 ## 3. EDA
 Exploratory Data Analysis on the cleaned data was performed.
 
+![Summary Statistics](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/DescriptiveStatistics.png)
+
 ### 3.1 Descriptive Statistics
 
 
