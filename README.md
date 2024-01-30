@@ -52,16 +52,20 @@ The categorical features are Gender, Education Level and Job title.
 Above figure shows the univariate analysis of employee ages plotted in histogram chart which uses ggplot package.The resulting plot, which is displayed below the code, shows the age distribution for working professionals. The x-axis represents employee ages, and the y-axis represents the number of employees. The histogram reveals the frequency of employees within certain age ranges, with each bar's height indicating the count of employees within that age bin. The plot visually suggests a diverse range of ages among the employees, with certain age ranges appearing more frequently than others.
 
 #### B. Gender Distribution<br>
+![Gender Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Gender%20Distribution.png)
 
-
+Above figure shows the gender distribution pie chart. It processes a data frame to calculate the count and percentage of each gender. It then uses these calculations to generate a pie chart with ggplot2, assigning distinct colors to male and female categories. The chart shows a near-even gender split in the dataset, with females making up 52% and males 48%.
 
 #### C. Employee Years of Experience Distribution<br>
+![YearofExperience Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Years%20of%20Experience%20Distribution.png)
 
+Above figure shows the histogram bar chart where it shows the distribution of years of experience in a dataset. The histogram is created using ggplot2, with the years of experience on the x-axis and frequency on the y-axis. It shows a wide range of experience levels among individuals in the dataset, with a higher frequency of individuals having fewer years of experience and gradually fewer individuals as the number of years of experience increases. This suggests that the dataset contains many entry-level or mid-level professionals and fewer individuals with extensive experience.
 
 
 #### D. Salary Distribution<br>
+![Salary Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Salary%20Distribution.png)
 
-
+Above figure shows the histogram plot for salary distribution. The visualization, created using ggplot2 in R, represents salary on the x-axis and frequency on the y-axis. The histogram, colored in orange with black borders for each bin, suggests a right-skewed distribution where a larger number of individuals have lower salaries, with frequency decreasing as salary increases. This pattern often indicates that higher salaries are less common within the dataset.
 
 #### E. Education Level<br>
 
