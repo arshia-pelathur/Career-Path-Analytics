@@ -10,7 +10,7 @@ Using R to perform analysis and Visualization on data. Graphical representations
 1. [Importing Libraries](#importing-Libraries)
 2. [Handling missing values](#handling-missing-values)
 3. [Exploratory Data Analysis](#EDA)<br>
-       3.1. [Descriptive Statistics](#3.1-descriptive-statistics)<br>
+       3.1. [Descriptive Statistics](#-3.1-descriptive-statistics)<br>
        3.2. [Univariate Analysis](#univariate-analysis)<br>
        3.3. [Bivariate Analysis](#bivariate-analysis)
 
