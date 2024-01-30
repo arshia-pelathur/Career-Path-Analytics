@@ -10,15 +10,36 @@ Using R to perform analysis and Visualization on data. Graphical representations
 1. [Importing Libraries](#importing-Libraries)
 2. [Handling missing values](#handling-missing-values)
 3. [Exploratory Data Analysis](#EDA)<br>
-       3.1. [Univariate Analysis](#univariate-analysis)<br>
-       3.2. [Bivariate Analysis](#bivariate-analysis)
+       3.1. [Descriptive Statistics](#descriptive-statistics)<br>
+       3.2. [Univariate Analysis](#univariate-analysis)<br>
+       3.3. [Bivariate Analysis](#bivariate-analysis)
 
-## Importing Libraries
+## 1. Importing Libraries
+Below packages were installed and imported for this analysis:
 
-## Handling Missing Values
+       - readxl: Read and import Excel files into R.
+       - ggplot2: Create static, animated, and interactive data visualizations in R.
+       - dplyr: Perform data manipulation and transformation in R.
+       - reshape2: Reshape and transform data in R.
 
-## EDA
+## 2. Handling Missing Values
+There are 6 features in the data:
+<br> 1. Age
+<br> 2. Gender
+<br> 3. Education Level
+<br> 4. Job Title
+<br> 5. Years of Experience
+<br> 6. Salary
 
-### Univariate Analysis
+Missing values in any row were observed and these rows were dropped before proceeding with Visualizations.
 
-### Bivariate Analysis
+## 3. EDA
+Exploratory Data Analysis on the cleaned data was performed.
+
+### 3.1 Descriptive Statistics
+
+
+### 3.2. Univariate Analysis
+
+
+### 3.3. Bivariate Analysis
