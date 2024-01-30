@@ -46,6 +46,30 @@ The categorical features are Gender, Education Level and Job title.
 
 ### 3.1 Descriptive Statistics
 
+#### A. Age Distribution of Working Professionals<br>
+![Age Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Age%20Distribution%20for%20Working%20Professionals.png)
+
+Above figure shows the univariate analysis of employee ages plotted in histogram chart which uses ggplot package.The resulting plot, which is displayed below the code, shows the age distribution for working professionals. The x-axis represents employee ages, and the y-axis represents the number of employees. The histogram reveals the frequency of employees within certain age ranges, with each bar's height indicating the count of employees within that age bin. The plot visually suggests a diverse range of ages among the employees, with certain age ranges appearing more frequently than others.
+
+#### B. Gender Distribution<br>
+
+
+
+#### C. Employee Years of Experience Distribution<br>
+
+
+
+#### D. Salary Distribution<br>
+
+
+
+#### E. Education Level<br>
+
+
+
+#### F. Top 10 Job titles
+
+
 
 ### 3.2. Univariate Analysis
 
